@@ -8,8 +8,8 @@ namespace _3.Dzienniczek_Ucznia
 {
     class Dzienniczek
     {
-        // Stan (zmienne pola)
-        List<float> oceny;
+        // Stan zmienna pola -  Tworzymy Listę ocen
+        List<float> oceny = new List<float>();
 
         // Zachowania - metody
         public void DodajOcene(float ocena)
