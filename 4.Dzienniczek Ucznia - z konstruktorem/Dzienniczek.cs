@@ -4,19 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3.Dzienniczek_Ucznia
+namespace _4.Dzienniczek_Ucznia___z_konstruktorem
 {
     class Dzienniczek
     {
-        //Konstruktor domyślny tworzymy wpisując słowko ctor i dajemy 2 razy tab - używamy snipeta.
-        // W konstruktorze ustawiamy wartości początkowe lub przekazujemy do niego jakieś wartości.
-        public Dzienniczek()
-        {
-            oceny = new List<float>();
-        }
         // Stan zmienna pola -  Tworzymy nowy obiekt - Listę ocen - zostaje utworzony konstruktor domyślny za pomocą słówka new
-        //List<float> oceny = new List<float>();
-        List<float> oceny;
+        List<float> oceny = new List<float>();
 
         // Zachowania - metody
         public void DodajOcene(float ocena)

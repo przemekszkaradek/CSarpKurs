@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Hello - Wydzielone Metody
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Dzienniczek Ucznia", "3.Dzienniczek Ucznia\3.Dzienniczek Ucznia.csproj", "{E4EF2717-72B9-4B34-B1D2-1A406D3B9088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Dzienniczek Ucznia - z konstruktorem", "4.Dzienniczek Ucznia - z konstruktorem\4.Dzienniczek Ucznia - z konstruktorem.csproj", "{CAFC2EF9-0AA0-498F-9E1C-043A846225E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Constructors", "5.Constructors\5.Constructors.csproj", "{1EAA7668-B93D-4F33-8D66-4FF21D213076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E4EF2717-72B9-4B34-B1D2-1A406D3B9088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4EF2717-72B9-4B34-B1D2-1A406D3B9088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4EF2717-72B9-4B34-B1D2-1A406D3B9088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFC2EF9-0AA0-498F-9E1C-043A846225E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFC2EF9-0AA0-498F-9E1C-043A846225E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFC2EF9-0AA0-498F-9E1C-043A846225E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFC2EF9-0AA0-498F-9E1C-043A846225E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAA7668-B93D-4F33-8D66-4FF21D213076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAA7668-B93D-4F33-8D66-4FF21D213076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAA7668-B93D-4F33-8D66-4FF21D213076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAA7668-B93D-4F33-8D66-4FF21D213076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
