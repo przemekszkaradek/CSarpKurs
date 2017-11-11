@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _4.Dzienniczek_Ucznia___z_konstruktorem
 {
+    //Klasa to szablon do tworzenia obiektów.
     class Dzienniczek
     {
         // Stan zmienna pola -  Tworzymy nowy obiekt - Listę ocen - zostaje utworzony konstruktor domyślny za pomocą słówka new
