@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Constructors", "5.Constru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Odcinek 10 Klasa a zmienna", "6.Odcinek 10 Klasa a zmienna\6.Odcinek 10 Klasa a zmienna.csproj", "{E27546FB-D54C-4547-BD9E-86D79C7C0903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Dzienniczek Ucznia - Hermetyzacja", "7. Dzienniczek Ucznia - Hermetyzacja\7. Dzienniczek Ucznia - Hermetyzacja.csproj", "{D0D447AF-1B0B-4616-AE1E-4AED0F806821}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Dzienniczek Ucznia - Hermetyzacja i Static", "7. Dzienniczek Ucznia - Hermetyzacja\7. Dzienniczek Ucznia - Hermetyzacja i Static.csproj", "{D0D447AF-1B0B-4616-AE1E-4AED0F806821}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

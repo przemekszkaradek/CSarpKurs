@@ -13,12 +13,16 @@ namespace _7.Dzienniczek_Ucznia___Hermetyzacja
         public Dzienniczek()
         {
             oceny = new List<float>();
+            Licznik++; // Licznik = Licznik + 1;
+            Licznik2++;
         }
 
-     
+
         // Stan zmienna pola -  Tworzymy nowy obiekt - Listę ocen - zostaje utworzony konstruktor domyślny za pomocą słówka new
         //List<float> oceny = new List<float>();
-        List<float> oceny;
+        private List<float> oceny;
+
+        
 
         // Zachowania - metody
         /// <summary>
@@ -27,7 +31,10 @@ namespace _7.Dzienniczek_Ucznia___Hermetyzacja
         /// <param name="ocena">nowa ocena</param>  // definiujemy opis parametru
         public void DodajOcene(float ocena)
         {
-            oceny.Add(ocena);
+            if (ocena >= 0 && ocena <= 10)
+            {
+                oceny.Add(ocena);
+            }
         }
         /// <summary>
         /// Z tej metody dostajemy obiekt naszych statystyk
@@ -50,5 +57,12 @@ namespace _7.Dzienniczek_Ucznia___Hermetyzacja
             return statystyki;
         }
 
+        //Pola statyczne - aby odwołać się do tych pól nie musimy tworzyć stancji klasy (obiektu). (dostępne na poziomie klasy)
+        public static float MinimalnaOcena = 0;
+        public static float MaksymalnaOcena = 10;
+        //Count - licznik
+        public static long Licznik = 0;
+        //Pole dostępne na poziomie obiektu - zmienne nie statyczne.
+        public long Licznik2 = 0;
     }
 }
