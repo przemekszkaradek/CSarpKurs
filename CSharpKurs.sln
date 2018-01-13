@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Odcinek 10 Klasa a zmienn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Dzienniczek Ucznia - Hermetyzacja i Static", "7. Dzienniczek Ucznia - Hermetyzacja\7. Dzienniczek Ucznia - Hermetyzacja i Static.csproj", "{D0D447AF-1B0B-4616-AE1E-4AED0F806821}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Typy Referencyjne i Wartościowe", "8.Typy Referencyjne i Wrtościowe\8.Typy Referencyjne i Wartościowe.csproj", "{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D0D447AF-1B0B-4616-AE1E-4AED0F806821}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0D447AF-1B0B-4616-AE1E-4AED0F806821}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0D447AF-1B0B-4616-AE1E-4AED0F806821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
