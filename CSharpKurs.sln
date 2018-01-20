@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Dzienniczek Ucznia - Her
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Typy Referencyjne i Wartościowe", "8.Typy Referencyjne i Wrtościowe\8.Typy Referencyjne i Wartościowe.csproj", "{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Parametry metody oraz ref i out", "Parametry metody oraz ref i out\9. Parametry metody oraz ref i out.csproj", "{3A8DF214-AC88-407C-A642-24ACBC166441}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF55F4D-F7B6-4336-8263-5F0B17E3D924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8DF214-AC88-407C-A642-24ACBC166441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8DF214-AC88-407C-A642-24ACBC166441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8DF214-AC88-407C-A642-24ACBC166441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8DF214-AC88-407C-A642-24ACBC166441}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
