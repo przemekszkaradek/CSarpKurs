@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Typy Referencyjne i Warto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Parametry metody oraz ref i out", "Parametry metody oraz ref i out\9. Parametry metody oraz ref i out.csproj", "{3A8DF214-AC88-407C-A642-24ACBC166441}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A 10. Structs and Enums - Struktury i Wyliczenia", "Structs and Enums\A 10. Structs and Enums - Struktury i Wyliczenia.csproj", "{2CD84EED-1C13-4190-A2CB-87576CE66FAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{3A8DF214-AC88-407C-A642-24ACBC166441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8DF214-AC88-407C-A642-24ACBC166441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8DF214-AC88-407C-A642-24ACBC166441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
