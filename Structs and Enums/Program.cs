@@ -50,7 +50,7 @@ namespace Structs_and_Enums
             liczba = 42;
         }
 
-        // Przypisanie metody zwracającej wartość bez
+        // Przypisanie metody zwracającej wartość 
         static int InkrementacjaLiczbaWatosciowametoda(int liczba)
         {
             liczba = 42;

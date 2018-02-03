@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Parametry metody oraz re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A 10. Structs and Enums - Struktury i Wyliczenia", "Structs and Enums\A 10. Structs and Enums - Struktury i Wyliczenia.csproj", "{2CD84EED-1C13-4190-A2CB-87576CE66FAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A 11. Immutable - niezmienność typów wartościowych", "A 11. Immutable\A 11. Immutable - niezmienność typów wartościowych.csproj", "{3F33004F-A50F-450F-B7C5-35087DB029F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CD84EED-1C13-4190-A2CB-87576CE66FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
