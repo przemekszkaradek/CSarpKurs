@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A 10. Structs and Enums - S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A 11. Immutable - niezmienność typów wartościowych", "A 11. Immutable\A 11. Immutable - niezmienność typów wartościowych.csproj", "{3F33004F-A50F-450F-B7C5-35087DB029F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A 12. Tablice", "A 12. Tablice\A 12. Tablice.csproj", "{2CCAE446-E1F3-4395-B7B7-4EF917341072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F33004F-A50F-450F-B7C5-35087DB029F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCAE446-E1F3-4395-B7B7-4EF917341072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCAE446-E1F3-4395-B7B7-4EF917341072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCAE446-E1F3-4395-B7B7-4EF917341072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCAE446-E1F3-4395-B7B7-4EF917341072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
