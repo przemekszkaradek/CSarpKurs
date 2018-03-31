@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A17.Delegaty", "A17.Delegat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A18.Zdarzenia", "A18.Zdarzenia\A18.Zdarzenia.csproj", "{BB4D5360-B39D-4280-ACB5-B550F48497F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A19.Kontrola Przeplywu Warunek", "A19.Kontrola Przeplywu\A19.Kontrola Przeplywu Warunek.csproj", "{EABC55F5-B984-4808-84C5-769E16559A10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{BB4D5360-B39D-4280-ACB5-B550F48497F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB4D5360-B39D-4280-ACB5-B550F48497F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB4D5360-B39D-4280-ACB5-B550F48497F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABC55F5-B984-4808-84C5-769E16559A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABC55F5-B984-4808-84C5-769E16559A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABC55F5-B984-4808-84C5-769E16559A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABC55F5-B984-4808-84C5-769E16559A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
