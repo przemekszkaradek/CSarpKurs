@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A22.Instrukcje Skoku", "A22
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A23.Throw.Wyjatki", "A23.Throw - wyjątki\A23.Throw.Wyjatki.csproj", "{05BFE7E0-D360-4F04-8E5A-AB704263ECC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A24.Wyjatki", "A24.Wyjatki\A24.Wyjatki.csproj", "{B539A0F0-6B80-4A65-A9C7-2F009391DFDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{05BFE7E0-D360-4F04-8E5A-AB704263ECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05BFE7E0-D360-4F04-8E5A-AB704263ECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05BFE7E0-D360-4F04-8E5A-AB704263ECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B539A0F0-6B80-4A65-A9C7-2F009391DFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B539A0F0-6B80-4A65-A9C7-2F009391DFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B539A0F0-6B80-4A65-A9C7-2F009391DFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B539A0F0-6B80-4A65-A9C7-2F009391DFDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,6 +10,7 @@ namespace A18.Zdarzenia
     {
         //Zdarzenia (events)
         //Wielokrotnie w rozwoju oprogramowania potrzebujemy interakcji aby śledźić komponenty, które wykonują jakieś interesujące rzeczy w nieprzewidywalnym czasie. Na przykład przycisk na ekranie jest elementem, który chcemy śledzić, i chcemy wiedzieć, kiedy użytkownik klika ten przycisk. Nie wiemy dokładnie, kiedy użytkownik kliknie przycisk, ale możemy otrzymywać powiadomienia gdy użytkownik kliknie przycisk czyli gdy zajdzie zdarzenie klikniecia przycisku i wtedy możemy wykonać pewien kod w reakcji na to zdarzenie.Czasami musimy zapisać dane do pliku lub dane do bazy danych, lub musimy śledzić dane na dysku np dane odswierzane na giełdzie co 60 sek. Wszystko to są to przykłdy zdarzeń. Zdarzenia pozwalają na sledzenie obiektu np przycisku na ekranie. Zdarzenia pozwalają na ogłaszanie zdrzenia każdemu kto słucha że wydażyło się coś ciekawego. Np gdy klikniemy przycisk wtedy publikujemy to zdarzenie natomiast kod subskrybuje to zdarzenie. Zdarzenie może wykonać wiele elementów np zapisać do bazy, zmienić kolor itp. Wszystko to odbywa się poprzez magię delegatów w c#. Zdarzenia eventy są oparte na delegatach i korzystają z nich.
+        // Uwaga jeżeli zdarzenia nie mają subskrybentów wygenerują nam wyjątek.
         static void Main(string[] args)
         {
             Dzienniczek dzienniczek = new Dzienniczek();
